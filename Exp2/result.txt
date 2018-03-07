@@ -1,0 +1,108 @@
+[*] Detecting Block 1
+  [+] Detecting IVALUE's last 1 block
+    [-] 00000000000000000000000000000017
+    [-] 16
+  [+] Detecting IVALUE's last 2 block
+    [-] 0000000000000000000000000000f414
+    [-] f616
+  [+] Detecting IVALUE's last 3 block
+    [-] 000000000000000000000000000ff515
+    [-] 0cf616
+  [+] Detecting IVALUE's last 4 block
+    [-] 0000000000000000000000008b08f212
+    [-] 8f0cf616
+  [+] Detecting IVALUE's last 5 block
+    [-] 0000000000000000000000ef8a09f313
+    [-] ea8f0cf616
+  [+] Detecting IVALUE's last 6 block
+    [-] 0000000000000000000078ec890af010
+    [-] 7eea8f0cf616
+  [+] Detecting IVALUE's last 7 block
+    [-] 0000000000000000002279ed880bf111
+    [-] 257eea8f0cf616
+  [+] Detecting IVALUE's last 8 block
+    [-] 00000000000000009a2d76e28704fe1e
+    [-] 92257eea8f0cf616
+  [+] Detecting IVALUE's last 9 block
+    [-] 000000000000004e9b2c77e38605ff1f
+    [-] 4792257eea8f0cf616
+  [+] Detecting IVALUE's last 10 block
+    [-] 000000000000cd4d982f74e08506fc1c
+    [-] c74792257eea8f0cf616
+  [+] Detecting IVALUE's last 11 block
+    [-] 000000000013cc4c992e75e18407fd1d
+    [-] 18c74792257eea8f0cf616
+  [+] Detecting IVALUE's last 12 block
+    [-] 000000006414cb4b9e2972e68300fa1a
+    [-] 6818c74792257eea8f0cf616
+  [+] Detecting IVALUE's last 13 block
+    [-] 000000b86515ca4a9f2873e78201fb1b
+    [-] b56818c74792257eea8f0cf616
+  [+] Detecting IVALUE's last 14 block
+    [-] 000064bb6616c9499c2b70e48102f818
+    [-] 6ab56818c74792257eea8f0cf616
+  [+] Detecting IVALUE's last 15 block
+    [-] 006565ba6717c8489d2a71e58003f919
+    [-] 6a6ab56818c74792257eea8f0cf616
+  [+] Detecting IVALUE's last 16 block
+    [-] d67a7aa57808d75782356efa9f1ce606
+    [-] c66a6ab56818c74792257eea8f0cf616
+[#] Detecting Block 1 -- Done!
+[#] The IValue1 is: c66a6ab56818c74792257eea8f0cf616
+[#] The M1 is Yay! You get an 
+--------------------------------------------------
+[*] Detecting Block 2
+  [+] Detecting IVALUE's last 1 block
+    [-] 000000000000000000000000000000ca
+    [-] cb
+  [+] Detecting IVALUE's last 2 block
+    [-] 000000000000000000000000000084c9
+    [-] 86cb
+  [+] Detecting IVALUE's last 3 block
+    [-] 000000000000000000000000004585c8
+    [-] 4686cb
+  [+] Detecting IVALUE's last 4 block
+    [-] 000000000000000000000000ac4282cf
+    [-] a84686cb
+  [+] Detecting IVALUE's last 5 block
+    [-] 000000000000000000000094ad4383ce
+    [-] 91a84686cb
+  [+] Detecting IVALUE's last 6 block
+    [-] 00000000000000000000ab97ae4080cd
+    [-] ad91a84686cb
+  [+] Detecting IVALUE's last 7 block
+    [-] 00000000000000000070aa96af4181cc
+    [-] 77ad91a84686cb
+  [+] Detecting IVALUE's last 8 block
+    [-] 0000000000000000797fa599a04e8ec3
+    [-] 7177ad91a84686cb
+  [+] Detecting IVALUE's last 9 block
+    [-] 0000000000000036787ea498a14f8fc2
+    [-] 3f7177ad91a84686cb
+  [+] Detecting IVALUE's last 10 block
+    [-] 000000000000c9357b7da79ba24c8cc1
+    [-] c33f7177ad91a84686cb
+  [+] Detecting IVALUE's last 11 block
+    [-] 0000000000a5c8347a7ca69aa34d8dc0
+    [-] aec33f7177ad91a84686cb
+  [+] Detecting IVALUE's last 12 block
+    [-] 0000000061a2cf337d7ba19da44a8ac7
+    [-] 6daec33f7177ad91a84686cb
+  [+] Detecting IVALUE's last 13 block
+    [-] 000000e960a3ce327c7aa09ca54b8bc6
+    [-] e46daec33f7177ad91a84686cb
+  [+] Detecting IVALUE's last 14 block
+    [-] 0000e7ea63a0cd317f79a39fa64888c5
+    [-] e9e46daec33f7177ad91a84686cb
+  [+] Detecting IVALUE's last 15 block
+    [-] 001fe6eb62a1cc307e78a29ea74989c4
+    [-] 10e9e46daec33f7177ad91a84686cb
+  [+] Detecting IVALUE's last 16 block
+    [-] d000f9f47dbed32f6167bd81b85696db
+    [-] c010e9e46daec33f7177ad91a84686cb
+[#] Detecting Block 2 -- Done!
+[#] The IValue2 is: c010e9e46daec33f7177ad91a84686cb
+[#] The M2 is A. =)
+--------------------------------------------------
+[!] The Intermediary Value is: c66a6ab56818c74792257eea8f0cf616c010e9e46daec33f7177ad91a84686cb
+[!] The M is: Yay! You get an A. =)
